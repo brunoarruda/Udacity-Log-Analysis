@@ -12,3 +12,11 @@ The project was done on Windows, so instructions will be given for this platafor
 2. Install [Oracle VM v.5.1.38](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
 3. Download or clone vagrantfile from [Udacity repo](https://github.com/udacity/fullstack-nanodegree-vm)
 4. go to Vagrantfile folder on prompt and run ```vagrant up```. This will set the Virtual Machine and dependencies of the project.
+
+## Running
+
+To do.
+
+## Views
+
+To do.
